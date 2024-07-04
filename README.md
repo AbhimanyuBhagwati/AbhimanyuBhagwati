@@ -25,25 +25,30 @@ I'm a passionate Cloud and Python Developer with a knack for solving complex pro
 - 🏫 Chandigarh University | B.Tech in Computer Science & Engineering | Chandigarh, India | 2016 - 2020
 
 ## 💼 Professional Experience
+💼 Professional Experience
 
-```python
-def professional_journey():
-    experiences = [
-        {"role": "Cloud Research Intern", "company": "Commonwealth Cyber Initiative", "duration": "Apr 2024 - Jun 2024",
-         "highlights": ["ORAN systems research", "OpenStack deployment", "CI/CD pipeline implementation"]},
-        {"role": "Python Developer", "company": "Rakuten Symphony", "duration": "Dec 2021 - Jun 2023",
-         "highlights": ["Network automation", "ELK Stack implementation", "VPN automation tool"]},
-        {"role": "Jr. Python Developer", "company": "One World LLC", "duration": "Nov 2020 - Nov 2021",
-         "highlights": ["CI/CD pipelines", "Microservices architecture", "API integration"]},
-        {"role": "Intern (Python Developer)", "company": "OOPS Info Solutions", "duration": "May 2019 - July 2019",
-         "highlights": ["Data cleaning and preprocessing", "Analytics and reporting"]},
-        {"role": "Intern (Java Developer)", "company": "OOPS Info Solutions", "duration": "May 2018 - July 2018",
-         "highlights": ["SQL query crafting", "Spring Boot backend services"]}
-    ]
-    return experiences
+- 🔬 Commonwealth Cyber Initiative | Cloud Research Intern | Arlington, VA | Apr 2024 - Jun 2024
+  - ORAN systems research
+  - OpenStack deployment
+  - CI/CD pipeline implementation
 
-for exp in professional_journey():
-    print(f"🚀 {exp['role']} @ {exp['company']} | {exp['duration']}")
+- 💻 Rakuten Symphony | Python Developer | India | Dec 2021 - Jun 2023
+  - Network automation
+  - ELK Stack implementation
+  - VPN automation tool
+
+- 🐍 One World LLC | Jr. Python Developer | India | Nov 2020 - Nov 2021
+  - CI/CD pipelines
+  - Microservices architecture
+  - API integration
+
+- 📊 OOPS Info Solutions | Intern (Python Developer) | India | May 2019 - July 2019
+  - Data cleaning and preprocessing
+  - Analytics and reporting
+
+- ☕ OOPS Info Solutions | Intern (Java Developer) | India | May 2018 - July 2018
+  - SQL query crafting
+  - Spring Boot backend services    print(f"🚀 {exp['role']} @ {exp['company']} | {exp['duration']}")
     for highlight in exp['highlights']:
         print(f"   • {highlight}")
     print()
