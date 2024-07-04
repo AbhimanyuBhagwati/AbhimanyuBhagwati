@@ -30,7 +30,7 @@ I'm a passionate Cloud and Python Developer with a knack for solving complex pro
 ```yaml
 🏫 Virginia Tech:
   Degree: Master's in Computer Science
-  Location: Blacksburg, USA
+  Location: USA
   Graduation: Spring 2025
 
 🏫 Chandigarh University:
@@ -61,8 +61,5 @@ I'm a passionate Cloud and Python Developer with a knack for solving complex pro
 
 - ☕ OOPS Info Solutions | Intern (Java Developer) | India | May 2018 - July 2018
   - SQL query crafting
-  - Spring Boot backend services    print(f"🚀 {exp['role']} @ {exp['company']} | {exp['duration']}")
-    for highlight in exp['highlights']:
-        print(f"   • {highlight}")
-    print()
+  - Spring Boot backend services
 
