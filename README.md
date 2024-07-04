@@ -9,21 +9,34 @@
   <a href="https://github.com/AbhimanyuBhagwati"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhimanyuBhagwati&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 I'm a passionate Cloud and Python Developer with a knack for solving complex problems and building scalable solutions. Currently pursuing my Master's in Computer Science at Virginia Tech, I bring a blend of academic knowledge and industry experience to the table.
 
 - 🔭 I'm currently working on enhancing ORAN systems and cloud deployments
-- 🌱 I'm currently learning advanced cloud architectures and machine learning techniques
-- 👯 I'm looking to collaborate on open-source projects related to cloud computing and data visualization
+- 🌱 I'm currently learning advanced cloud architectures and ML techniques
+- 👯 I'm looking to collaborate on open-source cloud and data viz projects
 - 💬 Ask me about Python, Cloud Technologies, and Network Automation
 - ⚡ Fun fact: I can debug code faster than I can solve a Rubik's cube!
 
 ## 🎓 Education
 
-- 🏫 Virginia Tech | Master's in Computer Science | Washington DC, USA | Spring 2025
-- 🏫 Chandigarh University | B.Tech in Computer Science & Engineering | Chandigarh, India | 2016 - 2020
+```yaml
+🏫 Virginia Tech:
+  Degree: Master's in Computer Science
+  Location: Washington DC, USA
+  Graduation: Spring 2025
 
+🏫 Chandigarh University:
+  Degree: B.Tech in Computer Science & Engineering
+  Location: Chandigarh, India
+  Duration: 2016 - 2020
 ## 💼 Professional Experience
 
 - 🔬 Commonwealth Cyber Initiative | Cloud Research Intern | Arlington, VA | Apr 2024 - Jun 2024
