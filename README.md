@@ -25,7 +25,6 @@ I'm a passionate Cloud and Python Developer with a knack for solving complex pro
 - 🏫 Chandigarh University | B.Tech in Computer Science & Engineering | Chandigarh, India | 2016 - 2020
 
 ## 💼 Professional Experience
-💼 Professional Experience
 
 - 🔬 Commonwealth Cyber Initiative | Cloud Research Intern | Arlington, VA | Apr 2024 - Jun 2024
   - ORAN systems research
