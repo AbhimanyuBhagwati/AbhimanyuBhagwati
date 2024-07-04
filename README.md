@@ -30,12 +30,12 @@ I'm a passionate Cloud and Python Developer with a knack for solving complex pro
 ```yaml
 🏫 Virginia Tech:
   Degree: Master's in Computer Science
-  Location: Washington DC, USA
+  Location: Blacksburg, USA
   Graduation: Spring 2025
 
 🏫 Chandigarh University:
   Degree: B.Tech in Computer Science & Engineering
-  Location: Chandigarh, India
+  Location: India
   Duration: 2016 - 2020
 ```
 ## 💼 Professional Experience
