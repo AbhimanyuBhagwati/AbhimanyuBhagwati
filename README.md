@@ -1,7 +1,3 @@
-Sure! Here's an enhanced version of your `README.md` with some cool effects:
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abhimanyu+Bhagwati;Cloud+%26+Python+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
