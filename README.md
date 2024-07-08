@@ -78,7 +78,7 @@ I'm a passionate Cloud and Python Developer with a knack for solving complex pro
 ```
 ## 💼 Professional Experience
 
-- 🔬 Commonwealth Cyber Initiative | Cloud Research Intern | Arlington, VA | Apr 2024 - Jun 2024
+- 🔬 Commonwealth Cyber Initiative | Cloud Research Intern | Arlington, VA | Apr 2024 - Present
   - ORAN systems research
   - OpenStack deployment
   - CI/CD pipeline implementation
