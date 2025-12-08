@@ -50,7 +50,9 @@ I'm a performance-driven **Software Engineer** with a specialized focus on build
 
 ## 🎓 Education
 
-```yaml
+```
+
+yaml
 🏫 Virginia Tech:
   Degree: Master's in Computer Science
   Location: Blacksburg, VA, USA
