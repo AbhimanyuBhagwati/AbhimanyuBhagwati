@@ -60,8 +60,6 @@ I'm a performance-driven **Software Engineer** with a specialized focus on build
   Degree: B.Tech in Computer Science & Engineering
   Location: India
   Duration: 2016 - 2020
-
-
 💼 Professional Experience
 🚀 22nd Century Technologies | Software Engineer | Aug 2024 - Present
 Engineered hybrid Python/Rust (PyO3) pipelines utilizing Zero-Copy semantics for 17x execution speedup.
