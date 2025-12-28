@@ -21,8 +21,7 @@ I'm a **Data Engineer** who builds production RAG systems and search pipelines f
 - 🔭 Currently building **semantic search systems** at 22nd Century Technologies
 - 🔍 Specializing in **RAG pipelines, vector search, and LLM integration**
 - ⚡ Achieved **17x performance speedup** with Python-Rust hybrid pipelines
-- 🎓 **M.S. Computer Science** from Virginia Tech (GPA: 3.63)
-- 📜 **AWS ML Specialty** certified (Jan 2025)
+- 🎓 **M.S. Computer Science** from Virginia Tech
 - 💬 Ask me about **RAG systems, pgvector, FastAPI, ETL pipelines**
 
 <br clear="right"/>
