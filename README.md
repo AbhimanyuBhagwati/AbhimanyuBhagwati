@@ -170,13 +170,11 @@ I'm a **Data Engineer** who builds production RAG systems and search pipelines f
 ```yaml
 🏫 Virginia Tech
   Degree: M.S. Computer Science
-  GPA: 3.63/4.0
   Graduation: May 2025
   Coursework: Machine Learning, Social Media Analytics, Cloud Computing, Databases
 
 🏫 Chandigarh University
   Degree: B.Tech in Computer Science & Engineering
-  GPA: 3.3/4.0
   Duration: 2016 - 2020
 ```
 
