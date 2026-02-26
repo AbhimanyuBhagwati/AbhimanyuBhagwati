@@ -1,15 +1,8 @@
 <div align="center">
 
-```
- ██████╗ ██████╗ ██╗  ██╗
-██╔══██╗██╔══██╗██║  ██║
-███████║██████╔╝███████║
-██╔══██║██╔══██╗██╔══██║
-██║  ██║██████╔╝██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
-```
+![Abhimanyu Bhagwati](https://raw.githubusercontent.com/AbhimanyuBhagwati/AbhimanyuBhagwati/main/banner.svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Platform+%26+Infrastructure+Engineer;Multi-Agent+Systems+%7C+LLM+Infrastructure;Production+RAG+%7C+Rust+%2B+Python+at+Scale;Open+Source+%40+TraceForge+%E2%86%92+pip+install+traceforge" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Multi-Agent+Systems+%7C+LLM+Infrastructure;Production+RAG+%7C+Rust+%2B+Python+at+Scale;Open+Source+%40+TraceForge+%E2%86%92+pip+install+traceforge" alt="Typing SVG" />
 
 <br/>
 
