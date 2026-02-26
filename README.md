@@ -1,206 +1,154 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Abhimanyu+Bhagwati;Data+Engineer+%7C+RAG+Systems;Making+Documents+Searchable" alt="Typing SVG" />
+
+```
+ ██████╗ ██████╗ ██╗  ██╗
+██╔══██╗██╔══██╗██║  ██║
+███████║██████╔╝███████║
+██╔══██║██╔══██╗██╔══██║
+██║  ██║██████╔╝██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Platform+%26+Infrastructure+Engineer;Multi-Agent+Systems+%7C+LLM+Infrastructure;Production+RAG+%7C+Rust+%2B+Python+at+Scale;Open+Source+%40+TraceForge+%E2%86%92+pip+install+traceforge" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhimanyubhagwati/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhiwati97@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhimanyuBhagwati)
+[![PyPI](https://img.shields.io/badge/PyPI-traceforge-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/traceforge/)
+
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhimanyubhagwati/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:abhiwati97@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://github.com/AbhimanyuBhagwati"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhimanyuBhagwati&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
-
-I'm a **Data Engineer** who builds production RAG systems and search pipelines for government clients. I specialize in turning unstructured documents into searchable, source-cited knowledge bases.
-
-- 🔭 Currently building **semantic search systems** at 22nd Century Technologies
-- 🔍 Specializing in **RAG pipelines, vector search, and LLM integration**
-- ⚡ Achieved **17x performance speedup** with Python-Rust hybrid pipelines
-- 🎓 **M.S. Computer Science** from Virginia Tech
-- 💬 Ask me about **RAG systems, pgvector, FastAPI, ETL pipelines**
-
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack
+## `$ whoami`
 
-### Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,go,js,bash" />
-  </a>
-</p>
+I build **AI infrastructure that ships to production** — multi-agent routing systems, fine-tuned LLMs, and hybrid Rust/Python pipelines handling 500K+ daily interactions.
 
-### Data & AI
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,pytorch,tensorflow" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+Currently at **22nd Century Technologies** engineering AI platforms for government clients under CJIS/HIPAA compliance. MS Computer Science @ Virginia Tech.
 
-### Backend & APIs
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-  </a>
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,linux" />
-  </a>
-</p>
-
-### Visualization & Monitoring
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
----
-
-## 💼 Experience
-
-```yaml
-🏢 22nd Century Technologies | Software Engineer | McLean, VA | Aug 2024 - Present
-  - Built CJIS-compliant RAG system: 200+ PDFs → 1,000+ searchable chunks
-  - Semantic search with PostgreSQL pgvector + HNSW indexes
-  - LLM integration for NER and auto-tagging (60% token reduction)
-  - Python-Rust hybrid pipeline achieving 17x speedup
-
-🔬 Commonwealth Cyber Initiative | Cloud Research Intern | Arlington, VA | Apr 2024 - Aug 2024
-  - Real-time telemetry monitoring for 72+ edge devices
-  - Multi-threaded RESTful middleware for hardware-software integration
-  - OpenStack infrastructure optimization for O-RAN testbeds
-
-💻 Rakuten Symphony | Software Developer Engineer | India | Dec 2021 - Jun 2023
-  - Grafana/Prometheus monitoring framework
-  - Kubernetes scaling improving log throughput by 40%
-  - CI/CD automation reducing deployment errors by 60%
+```python
+profile = {
+    "role":      "AI Platform & Infrastructure Engineer",
+    "focus":     ["Multi-Agent Systems", "RAG Pipelines", "LLM Fine-tuning"],
+    "stack":     ["Python", "Rust", "LangChain", "NeMo", "Kubernetes"],
+    "highlight": "17x throughput via Python-Rust hybrid · 500K+ daily interactions",
+    "open_to":   "AI Platform / ML Infrastructure roles"
+}
 ```
 
 ---
 
-## 🚀 Featured Projects
+## `$ ls ./projects/featured`
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏠 Housing Market Analytics</h3>
-      <p align="center">
-        <a href="https://github.com/AbhimanyuBhagwati/housing-analytics">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Serverless pipeline on GCP processing 1M+ Zillow records with geospatial dashboard</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚗 US Accident Analysis</h3>
-      <p align="center">
-        <a href="https://github.com/AbhimanyuBhagwati/accident-analysis">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Large-scale analysis of accident patterns, weather correlations, geographic hotspots</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visualization-FF6F00?style=flat&logo=tableau&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔗 gRPC Microservices</h3>
-      <p align="center">
-        <a href="https://github.com/AbhimanyuBhagwati/grpc-microservices">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">High-performance microservices with 30% latency reduction & SSL/TLS security</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔊 Voice Transcription App</h3>
-      <p align="center">
-        <a href="https://github.com/AbhimanyuBhagwati/voice-transcription">
-          <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p align="center">Production voice-to-text system with Whisper AI and Streamlit UI</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+### 🔬 TraceForge &nbsp; `pip install traceforge`
+
+> **Test harness for tool-calling AI agents**
+
+The debugging layer the AI agent ecosystem was missing. Records executions as content-addressed traces (SHA-256), replays deterministically without re-running models, fuzzes tool responses, and mines behavioral invariants Daikon-style.
+
+**183 tests · Published on PyPI · Open Source**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-161B22?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhimanyuBhagwati/TraceForge)
+[![PyPI](https://img.shields.io/badge/pip_install_traceforge-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/traceforge/)
+
+`Python` `Pydantic` `Ollama` `SHA-256 Traces` `Causal Attribution`
+
+</td>
+<td width="40%" align="center">
+
+```
+┌─────────────────────────┐
+│  TRACEFORGE PIPELINE    │
+│                         │
+│  Agent Run              │
+│      ↓                  │
+│  SHA-256 Trace Record   │
+│      ↓                  │
+│  Deterministic Replay   │
+│      ↓                  │
+│  Invariant Mining       │
+│      ↓                  │
+│  Causal Attribution     │
+└─────────────────────────┘
+```
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🎓 Education
+### Other Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **FilingNectar** | Local RAG for 74 SEC 10-K filings · 9,334 sections · 65% query improvement | `FastAPI` `Next.js` `Ollama` `RAGAS` |
+| **Housing Analytics** | Serverless GCP pipeline · 1M+ Zillow records · geospatial dashboard | `Python` `BigQuery` `Plotly` `Redis` |
+| **gRPC Microservices** | High-perf microservices · 30% latency reduction · SSL/TLS | `Go` `gRPC` `Prometheus` |
+
+---
+
+## `$ cat tech_stack.yaml`
 
 ```yaml
-🏫 Virginia Tech
-  Degree: M.S. Computer Science
-  Graduation: May 2025
-  Coursework: Machine Learning, Social Media Analytics, Cloud Computing, Databases
+languages:
+  primary:   [Python, Rust, Go]
+  secondary: [TypeScript, SQL, Bash]
 
-🏫 Chandigarh University
-  Degree: B.Tech in Computer Science & Engineering
-  Duration: 2016 - 2020
+ai_ml:
+  frameworks:  [LangChain, LlamaIndex, PyTorch]
+  llm_ops:     [NeMo Fine-tuning, LoRA, RAGAS Evaluation]
+  infra:       [Multi-Agent Routing, RAG, MCP, Model Garden]
+  vector_dbs:  [Milvus, pgvector, ChromaDB, Qdrant]
+
+cloud_infra:
+  platforms:   [AWS, Azure, GCP]
+  containers:  [Docker, Kubernetes]
+  cicd:        [GitHub Actions, Jenkins, Azure DevOps]
+  monitoring:  [Grafana, Prometheus]
+
+databases:    [PostgreSQL, Snowflake, SQL Server]
 ```
 
 ---
 
-## 📜 Certification
+## `$ cat metrics.log`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhimanyuBhagwati&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhimanyuBhagwati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+```
+[PROD] 17x throughput ··········· Rust/PyO3 hybrid pipeline
+[PROD] 500K+ daily interactions · Multi-agent routing system
+[PROD] 93% answer accuracy ······ Hybrid search · RAGAS validated
+[PROD] 70% intent accuracy ······ 3B-param LLM routing
+[PROD] 60% token reduction ······ Optimized JSON schema pipeline
+[PROD] 35% hallucination drop ··· NeMo fine-tune + MCP context
+```
 
 ---
 
-<p align="center">
-  <b>Open to ML Engineer, Data Engineer, and Backend roles</b>
-  <br><br>
-  <a href="mailto:abhiwati97@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+## `$ git log --oneline education`
+
+```
+a3f1c2e  MS Computer Science · Virginia Tech · May 2025
+         Machine Learning · Cloud Computing · Social Media Analytics
+
+b7d9e1a  BTech Computer Science · Chandigarh University · 2020
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbhimanyuBhagwati&show_icons=true&theme=github_dark&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhimanyuBhagwati&theme=github-dark-blue&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
+
+<br/><br/>
+
+*Open to AI Platform · ML Infrastructure · LLM Systems roles*
+
+</div>
